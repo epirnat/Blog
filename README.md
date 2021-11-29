@@ -1,4 +1,4 @@
-# Blog
+# Blog post
 
 A blog post on light pollution
 
